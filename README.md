@@ -17,6 +17,11 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 ### Análisis Competitivo
 
+> Enlace al documento (en formato pdf): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso1_Desk_Research_Analysis/Analisis_competitivo.pdf
+
+![Método UX](Paso1_Desk_Research_Analysis/Analisis_competitivo.png)
+-----
+
 
 ### Persona
 
