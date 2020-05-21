@@ -9,13 +9,17 @@ He decidido crear un sitio web para que las personas puedan ofrecer espacios de 
 En este caso se estudiará un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 >>> Este documento es el esqueleto del report final del caso de estudio.
+-----
+
 
 
 # Proceso de Diseño 
 
+
 ## Paso 1. UX Desk Research & Analisis 
 
 > Toda la información referente al proceso de diseño se encuentra explicada en este documento README. No obstante, los documentos que se nombran en este paso se encuentran en la carpeta "Paso1_Desk_Research_Analysis", o en el enlace: https://github.com/NaroaAlonso/DIU20Final/tree/master/Paso1_Desk_Research_Analysis . Asimismo, cada apartado de este paso se comenta a continuación y los enlaces a los documentos a los que se hace referencia están indicados en cada momento.
+
 
 
 ### Análisis Competitivo
@@ -30,6 +34,7 @@ El blog, el hecho de compartir las diferentes experiencias que han tenido los cl
 Por otro lado, erranT no detalla a la perfección qué servicios ofrece del todo, no estableciendo un límite claro con el que poder "reclamar" algo o simplemente estar seguros de cuál es el servicio exacto que estoy contratando. Opuestamente, aunque Cubikate hace esto a la perfección, no se percibe que haya actividades dinámicas o que se salgan meramente del cuadro de un alquiler de oficinas estándar con servicio de secretaría.
 
 
+
 ### User Persona: María Fernanda Zambrano
 
 > Enlace al documento (en pdf): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso1_Desk_Research_Analysis/Persona_MariaZambrano.pdf
@@ -38,6 +43,7 @@ Por otro lado, erranT no detalla a la perfección qué servicios ofrece del todo
 -----
 
 Esta persona se ha creado sin tener en cuenta la iniciativa que se quiere tomar (sitio web donde se pueda crear una comunidad de coworkers colaborativa), y representa la realidad de muchas personas en nuestro país.
+
 
 
 ### Journey Map
@@ -52,6 +58,7 @@ Este Journey Map nos ha demostrado ciertos problemas de la web analizada, erranT
 - Para una persona que no conozca el concepto de coworking, no está realmente bien explicado en el sitio web y puede generar dudas y malas interpretaciones. Dado que la persona sobre la que se ha realizado el Journey Map es bastante activa, tomó la decisión de acercarse al sitio físico para preguntar, pero otro tipo de persona no hubiera hecho lo mismo.
 
 - Las ofertas que se proponen en la web (las tarifas) son elevadas para esta persona, y además no se ajustan a sus necesidades temporales. Si bien la oferta no es algo que se pueda solucionar con el diseño web, sí que se puede pensar en alguna idea innovadora que lo solucione; como puede ser crear una comunidad de personas que cedan espacios que no usan al mes, o que los alquilen por horas, o donde varias personas se puedan poner en contacto para llegar a un acuerdo.
+
 
 
 ### Análisis de Usabilidad: erranT
@@ -82,11 +89,15 @@ La puntuación obtenida en el análisis sobre el sitio web ha sido de *69 puntos
 
 - Información externa: accesibilidad, términos y condiciones, aviso legal: no disponemos de información sobre accesibilidad y, aunque existe un aviso legal, no se encuentra en el footer y es bastante difícil de encontrar (sólo se ha visualizado a través del buscador).
 
+-----
+-----
+
 
 
 ## Paso 2. UX Design 
 
 > Toda la información sobre este paso está detallada en este README, aunque los documentos que se han utilizado para este proceso se encuentran en la carpeta Paso2_UX_Design, con el enlace: https://github.com/NaroaAlonso/DIU20Final/tree/master/Paso2_UX_Design . Asimismo, para cada documento al que se hace referencia a continuación se detalla el enlace donde se encuentra de forma individual.
+
 
 
 ### Malla receptora de la información
@@ -99,6 +110,7 @@ La puntuación obtenida en el análisis sobre el sitio web ha sido de *69 puntos
 Se puede observar en la malla que los puntos a mejorar de lo que ya existe tratan sobre la internacionalización y la inclusión de páginas de ayuda, lo que sin duda habría que mejorar o implementar para completar mínimamente el sitio web.
 
 Como propuesta de valor se le puede añadir nueva funcionalidad al sitio que haga más atractivo el uso de la web y que de algún modo se espera: la posibilidad de proponer espacios personales para otros coworkers, la posibilidad de reservar espacios desde el sitio, la creación de comunidad y el poder contactar con otros coworkers, etcétera.
+
 
 
 ### Tasks & Sitemap
@@ -119,6 +131,7 @@ _Leyenda de la matriz_: (frecuencia de uso) Se ha generado un ranking con los po
 -	El perfil crítico será el conjunto de personas emprendedoras que necesiten darle forma a su producto o que necesiten un espacio donde establecerse para poder trabajar, ya que serán los que más actividades realicen en la plataforma.
 
 -	La tarea crítica será el inicio de sesión, debido a que para poder contactar con las personas que ofrecen sus espacios o con otros colaboradores o incluso para reservar estos sitios o las salas de conferencia necesitarán acceder a su perfil.
+
 
 
 ### Labelling
