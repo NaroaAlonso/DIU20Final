@@ -134,6 +134,17 @@ _Leyenda de la matriz_: (frecuencia de uso) Se ha generado un ranking con los po
 
 
 
-### Labelling
+### Arquitectura del sitio y etiquetado
+
+> El diagrama de la arquitectura del sitio se encuentra (en formato pdf) en el siguiente enlace: https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso2_UX_Design/Arquitectura.pdf
+
+![Método UX](Paso2_UX_Design/Arquitectura.png)
+-----
+
+Se ha decidido ampliar todo lo posible la funcionalidad de la web sin tener que iniciar sesión (por ejemplo, pudiendo buscar oficinas sin entrar a nuestro perfil, únicamente haría falta para reservarlas) para que se pueda navegar todo lo posible por la misma antes de acceder por primera vez; ya que por lo general, las personas son muy reticentes a entregar sus datos para crear una cuenta por primera vez en un sitio.
+
+El etiquetado se especifica a continuación:
+
+-
 
 ### Bocetos
