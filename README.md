@@ -99,6 +99,23 @@ Como propuesta de valor se le puede añadir nueva funcionalidad al sitio que hag
 
 ### Tasks & Sitemap
 
+Se ha creado una matriz de tareas para identificar todo lo que se supone que se debe poder hacer en la página web según la propuesta de valor descrita anteriormente y se le ha atribuido un valor según la frecuencia de uso de los grupos de usuarios a los que va dirigida la plataforma. Se ha seleccionado este método porque visualmente es muy claro y se intuye a la perfección la importancia de cada tarea.
+
+> El documento (en pdf) donde se encuentran tanto la matriz como las diversas tareas en su ranking se encuentra en el siguiente enlace: https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso2_UX_Design/Task%20Matrix%20.pdf
+
+![Método UX](Paso2_UX_Design/matriz.png)
+-----
+
+_Leyenda de la matriz_: (frecuencia de uso) Se ha generado un ranking con los posibles valores de uso para cada grupo de las distintas tareas. Los valores pueden variar desde 0 (frecuencia de uso nula) hasta 4 (frecuencia de uso muy alta), pasando por 1 (frecuencia baja), 2 (frecuencia media) y 3 (frecuencia alta).
+
+![Método UX](Paso2_UX_Design/ranking.png)
+-----
+
+-	El perfil crítico será el conjunto de personas emprendedoras que necesiten darle forma a su producto o que necesiten un espacio donde establecerse para poder trabajar, ya que serán los que más actividades realicen en la plataforma.
+
+-	La tarea crítica será el inicio de sesión, debido a que para poder contactar con las personas que ofrecen sus espacios o con otros colaboradores o incluso para reservar estos sitios o las salas de conferencia necesitarán acceder a su perfil.
+
+
 ### Labelling
 
 ### Bocetos
