@@ -50,7 +50,34 @@ Este Journey Map nos ha demostrado ciertos problemas de la web analizada, erranT
 - Las ofertas que se proponen en la web (las tarifas) son elevadas para esta persona, y además no se ajustan a sus necesidades temporales. Si bien la oferta no es algo que se pueda solucionar con el diseño web, sí que se puede pensar en alguna idea innovadora que lo solucione; como puede ser crear una comunidad de personas que cedan espacios que no usan al mes, o que los alquilen por horas, o donde varias personas se puedan poner en contacto para llegar a un acuerdo.
 
 
-### Análisis de Usabilidad
+### Análisis de Usabilidad: erranT
+
+> Enlace al documento (en formato Excel): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso1_Desk_Research_Analysis/Usability%20Review%20erranT.xls
+
+> Enlace al documento (en formato pdf): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso1_Desk_Research_Analysis/Usability%20Review%20erranT.pdf
+
+Se ha realizado un análisis de Usabilidad del sitio web de erranT al que se puede acceder pulsando en los enlaces anteriores para verlo o descargarlo en diferentes formatos. No se han incluido en este README capturas de pantalla del mismo porque el análisis contiene muchas páginas donde se detalla todo en bastante profundidad, por lo que a efectos generales, es más atractivo y dinámico que en este apartado únicamente se presenten las conclusiones obtenidas del mismo, que se detallan a continuación.
+
+La puntuación obtenida en el análisis sobre el sitio web ha sido de *69 puntos sobre 100: Good*. Aunque se incluya dentro del espectro de _Bueno_, es la puntuación mínima para este descriptor (entre 69 y 89 puntos). A rasgos generales, una vez que se ha navegado bastante por el sitio, la sensación con la que considero que puede quedarse el usuario es de simpleza: es un sitio web muy simple y con funcionalidades muy limitadas.
+
+##### Puntos fuertes
+
+- Navegabilidad: es fácil moverse por las distintas páginas y conocemos nuestra ubicación dentro de la arquitectura en todo momento.
+
+- Adaptabilidad a todo tipo de usuarios (sencillez de la página web): no importa que navegue por la web un usuario poco acostumbrado a las teconologías o que desconozca el concepto de _Coworking_ del que se habla en el sitio, debido a la sencillez del contenido es fácil entender un poco cómo funciona tras un rato navegando.
+
+- Diseño dinámico y atractivo:la paleta de colores elegidas, las fotografías y la disposición del blog mantienen la atención del usuario.
+
+##### Puntos débiles
+
+- Internacionalización: aunque se hable de un espacio en Granada, cuando accedemos al sitio directamente nos manda a la versión en inglés (aunque se trate de un espacio en España), lo que puede llegar a ser comprensible porque quizás este tipo de servicio lo contraten en mayor medida personas extranjeras. No obstante, lo que no es comprensible, es que las etiquetas de las acciones del formulario, los errores del mismo o los errores del buscador aparezcan en inglés en la versión en castellano. Asimismo, en la versión en inglés no aparece la pestaña del Blog en el menú, posiblemente porque no haya entradas en otro idioma.
+
+- Funcionalidad: a priori cuando se accede al sitio da la sensación de que no es una web meramente informativa, sino que se va a poder realizar algún trámite online. No obstante, únicamente podemos consultar información y disponemos de un formulario y de teléfonos y direcciones de correo para contactar, pero no podemos reservar salas, iniciar sesión ni mantener un contacto con la comunidad de coworkers, como en un principio se había pensado. Por lo tanto, no podemos consumir nada, tenemos que realizar otras acciones fuera del sitio (llamar por teléfono, acudir al establecimiento...) para poder hacer algo.
+
+- Preguntas frecuentes, ayuda: apartados completamente inexistentes, lo que resulta bastante grave cuando se trata de una web meramente informativa.
+
+- Información externa: accesibilidad, términos y condiciones, aviso legal: no disponemos de información sobre accesibilidad y, aunque existe un aviso legal, no se encuentra en el footer y es bastante difícil de encontrar (sólo se ha visualizado a través del buscador).
+
 
 
 ## Paso 2. UX Design  
