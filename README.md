@@ -145,6 +145,13 @@ Se ha decidido ampliar todo lo posible la funcionalidad de la web sin tener que 
 
 El etiquetado se especifica a continuación:
 
--
+- **Inicio**: Página principal, primera instancia donde aparecerá información sobre qué es el Coworking, cómo funciona el sitio y desde donde se enlazará al resto de páginas a las que se pueden acceder.
+- **Coworking**: Página de búsqueda: aquí aparecerá un buscador con filtros para poder ojear los espacios posibles o las salas de reuniones, sus precios, horarios e información en general.
+- **Información**: Página donde se explica en detalle cómo funciona el coworking, cómo se puede reservar/ofrecer un espacio, cómo nos podemos incluir en la comunidad y para qué. Esta página, al ser informativa, también contendrá enlaces a la página de ayuda y de preguntas frecuentes.
+- **Noticias**: Aquí se encontrarán las entradas del blog.
+- **Contacto**: En esta página aparecerán números de teléfono, dirección de correo electrónico e incluso un formulario para contactar con la organización responsable de esta web. 
+- **Ayuda**: Página donde se incluirá un chat, un apartado de preguntas frecuentes y un enlace a la página de contacto, por si hubiera más preguntas no resueltas.
+- **Inicio de sesión**: Espacio donde se introduce el nombre de usuario y la contraseña para acceder a la sección personal de la web, para acceder a la parte de la comunidad y para poder ofrecer/reservar espacios.
+- **Reserva**: Redirige al buscador (_Coworking_), pero esta vez cuando pulsemos el botón "Reserva" Nos llevará a la página de reserva y pago ya que la sesión estará iniciada.
 
 ### Bocetos
