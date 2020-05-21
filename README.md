@@ -156,7 +156,9 @@ El etiquetado se especifica a continuación:
 - **Espacio**: Cuando aplicamos el filtro para poder reservar un espacio que haga de oficina.
 - **Sala de reuniones** Cuando aplicamos el filtro en la reserva para poder acceder a una sala de reuniones.
 - **Ofrece**: Página donde las personas que tienen un espacio pueden ofrecerlo a otros coworkers de manera gratuita/pago. Redirige a un formulario donde escribir toda la información necesaria.
-- **Comunidad**: Accede a la parte de comunidad, la parte social, donde podemos contactar con otras personas.
-- **Encuentra**: 
+- **Comunidad**: Accede a la parte de comunidad, la parte social, donde podemos contactar con otras personas. Aquí aparecen los datos del perfil personal y tenemos la opción de buscar personas para poder alquilarles una sala o para que nos ayuden con sus trabajos y viceversa.
+- **Encuentra**: Aparecerá un filtro donde podamos buscar por temáticas a personas que nos ayuden. Se podrá buscar por nombre, área de conocimiento, etcétera.
+- **Contacta**: Tendremos nuestros mensajes anteriores con otras personas y podremos escribir mensajes nuevos.
+
 
 ### Bocetos
