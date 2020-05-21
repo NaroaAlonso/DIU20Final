@@ -90,7 +90,7 @@ La puntuación obtenida en el análisis sobre el sitio web ha sido de *69 puntos
 
 > La malla receptora de la información se encuentra en este enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso2_UX_Design/Malla_receptora_informacion.pdf
 
-![Método UX](Paso2_UX_Design/malla_receptora_errant.png)
+![Método UX](Paso2_UX_Design/malla_receptora_erranT.png)
 -----
 
 Se puede observar en la malla que los puntos a mejorar de lo que ya existe tratan sobre la internacionalización y la inclusión de páginas de ayuda, lo que sin duda habría que mejorar o implementar para completar mínimamente el sitio web.
