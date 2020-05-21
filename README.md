@@ -153,5 +153,10 @@ El etiquetado se especifica a continuación:
 - **Ayuda**: Página donde se incluirá un chat, un apartado de preguntas frecuentes y un enlace a la página de contacto, por si hubiera más preguntas no resueltas.
 - **Inicio de sesión**: Espacio donde se introduce el nombre de usuario y la contraseña para acceder a la sección personal de la web, para acceder a la parte de la comunidad y para poder ofrecer/reservar espacios.
 - **Reserva**: Redirige al buscador (_Coworking_), pero esta vez cuando pulsemos el botón "Reserva" Nos llevará a la página de reserva y pago ya que la sesión estará iniciada.
+- **Espacio**: Cuando aplicamos el filtro para poder reservar un espacio que haga de oficina.
+- **Sala de reuniones** Cuando aplicamos el filtro en la reserva para poder acceder a una sala de reuniones.
+- **Ofrece**: Página donde las personas que tienen un espacio pueden ofrecerlo a otros coworkers de manera gratuita/pago. Redirige a un formulario donde escribir toda la información necesaria.
+- **Comunidad**: Accede a la parte de comunidad, la parte social, donde podemos contactar con otras personas.
+- **Encuentra**: 
 
 ### Bocetos
