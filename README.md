@@ -17,6 +17,7 @@ En este caso se estudiará un caso de plataforma de economía colaborativa y rea
 
 > Toda la información referente al proceso de diseño se encuentra explicada en este documento README. No obstante, los documentos que se nombran en este paso se encuentran en la carpeta "Paso1_Desk_Research_Analysis", o en el enlace: https://github.com/NaroaAlonso/DIU20Final/tree/master/Paso1_Desk_Research_Analysis . Asimismo, cada apartado de este paso se comenta a continuación y los enlaces a los documentos a los que se hace referencia están indicados en cada momento.
 
+
 ### Análisis Competitivo
 
 > Enlace al documento (en formato pdf): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso1_Desk_Research_Analysis/Analisis_competitivo.pdf
@@ -37,6 +38,7 @@ Por otro lado, erranT no detalla a la perfección qué servicios ofrece del todo
 -----
 
 Esta persona se ha creado sin tener en cuenta la iniciativa que se quiere tomar (sitio web donde se pueda crear una comunidad de coworkers colaborativa), y representa la realidad de muchas personas en nuestro país.
+
 
 ### Journey Map
 
@@ -86,6 +88,7 @@ La puntuación obtenida en el análisis sobre el sitio web ha sido de *69 puntos
 
 > Toda la información sobre este paso está detallada en este README, aunque los documentos que se han utilizado para este proceso se encuentran en la carpeta Paso2_UX_Design, con el enlace: https://github.com/NaroaAlonso/DIU20Final/tree/master/Paso2_UX_Design . Asimismo, para cada documento al que se hace referencia a continuación se detalla el enlace donde se encuentra de forma individual.
 
+
 ### Malla receptora de la información
 
 > La malla receptora de la información se encuentra en este enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso2_UX_Design/Malla_receptora_informacion.pdf
@@ -97,16 +100,18 @@ Se puede observar en la malla que los puntos a mejorar de lo que ya existe trata
 
 Como propuesta de valor se le puede añadir nueva funcionalidad al sitio que haga más atractivo el uso de la web y que de algún modo se espera: la posibilidad de proponer espacios personales para otros coworkers, la posibilidad de reservar espacios desde el sitio, la creación de comunidad y el poder contactar con otros coworkers, etcétera.
 
+
 ### Tasks & Sitemap
 
 Se ha creado una matriz de tareas para identificar todo lo que se supone que se debe poder hacer en la página web según la propuesta de valor descrita anteriormente y se le ha atribuido un valor según la frecuencia de uso de los grupos de usuarios a los que va dirigida la plataforma. Se ha seleccionado este método porque visualmente es muy claro y se intuye a la perfección la importancia de cada tarea.
 
 > El documento (en pdf) donde se encuentran tanto la matriz como las diversas tareas en su ranking se encuentra en el siguiente enlace: https://github.com/NaroaAlonso/DIU20Final/blob/master/Paso2_UX_Design/Task%20Matrix%20.pdf
 
+_Leyenda de la matriz_: (frecuencia de uso) Se ha generado un ranking con los posibles valores de uso para cada grupo de las distintas tareas. Los valores pueden variar desde 0 (frecuencia de uso nula) hasta 4 (frecuencia de uso muy alta), pasando por 1 (frecuencia baja), 2 (frecuencia media) y 3 (frecuencia alta).
+
 ![Método UX](Paso2_UX_Design/matriz.png)
 -----
 
-_Leyenda de la matriz_: (frecuencia de uso) Se ha generado un ranking con los posibles valores de uso para cada grupo de las distintas tareas. Los valores pueden variar desde 0 (frecuencia de uso nula) hasta 4 (frecuencia de uso muy alta), pasando por 1 (frecuencia baja), 2 (frecuencia media) y 3 (frecuencia alta).
 
 ![Método UX](Paso2_UX_Design/ranking.png)
 -----
