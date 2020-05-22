@@ -7,6 +7,9 @@ Alumno:
 
 He decidido crear **La Madriguera**, un sitio web para que las personas puedan ofrecer espacios de que dispongan o acceder a los espacios de otras personas para poder realizar un trabajo cooperativo, basado en la iniciativa de una empresa de Coworking, erranT. El enlace a la página web de erranT es el siguiente: https://www.errant.es/es/
 
+Logo: ![Método UX](Logo.jpeg)
+-----
+
 En este caso se estudiará un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 >>> Este documento es el esqueleto del report final del caso de estudio.
@@ -163,6 +166,8 @@ El etiquetado se especifica a continuación:
 
 
 ### Bocetos
+
+> Todos los bocetos se encuentran en formato imagen en la carpeta "Bocetos" dentro de la carpeta "Paso2_UX_Design", o en el enlace: https://github.com/NaroaAlonso/DIU20Final/tree/master/Paso2_UX_Design/Bocetos
 
 En base a todo lo investigado y analizado anteriormente, se ha llevado a cabo el diseño de algunos bocetos de la web. Realmente deberían realizarse bocetos low fit, con mucha menos información de la que contienen los hechos; y tras hacer un primer diseño con poco detalle, un estudio de usabilidad y navegabilidad por la web para ver cómo se interactúa con la misma y poder encontrar algún fallo y corregirlo de cara a los bocetos más detallados. No obstante, debido al poco tiempo del que se dispone para realizar todo este caso de estudio, se ha procedido directamente a diseñar los bocetos con un poco más de detalle.
 
