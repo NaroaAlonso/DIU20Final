@@ -172,7 +172,7 @@ Se ha intentado cuidar mucho la navegabilidad y la usabilidad del sitio. Para el
 
 En la página de inicio se encuentra toda la información sobre la funcionalidad casi total de la web, y enlaces a todas las páginas.
 
-![Método UX](Paso2_UX_Design/Bocetos/inicio.png)
+![Método UX](Paso2_UX_Design/Bocetos/inicio.jpeg)
 -----
 
 
