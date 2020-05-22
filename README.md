@@ -7,7 +7,7 @@ Alumno:
 
 He decidido crear **La Madriguera**, un sitio web para que las personas puedan ofrecer espacios de que dispongan o acceder a los espacios de otras personas para poder realizar un trabajo cooperativo, basado en la iniciativa de una empresa de Coworking, erranT. El enlace a la página web de erranT es el siguiente: https://www.errant.es/es/
 
-Logo: ![Método UX](Logo.jpeg)
+![Método UX](Logo.jpeg)
 -----
 
 En este caso se estudiará un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
