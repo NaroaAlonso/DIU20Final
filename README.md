@@ -168,6 +168,7 @@ En base a todo lo investigado y analizado anteriormente, se ha llevado a cabo el
 
 Se ha intentado cuidar mucho la navegabilidad y la usabilidad del sitio. Para ello, se han incluido breadcrumbs en todas las páginas (salvo en la de inicio) y se han incluido enlaces importantes en el footer. La pantalla de inicio siempre es accesible pinchando el logo y el menú siempre es visible, desde todas las páginas. 
 
+
 #### Página de inicio
 
 En la página de inicio se encuentra toda la información sobre la funcionalidad casi total de la web, y enlaces a todas las páginas.
@@ -175,24 +176,86 @@ En la página de inicio se encuentra toda la información sobre la funcionalidad
 ![Método UX](Paso2_UX_Design/Bocetos/inicio.jpeg)
 -----
 
+- El menú, una vez se ha iniciado sesión, aparecerá constantemente de la siguiente manera:
+
+![Método UX](Paso2_UX_Design/Bocetos/menu_iniciado.jpeg)
+-----
+
 
 #### Coworking
+
+La página inicial para comenzar a buscar sería la siguiente:
+
+![Método UX](Paso2_UX_Design/Bocetos/coworking.jpeg)
+-----
+
+Y una vez hemos comenzado la búsqueda, los resultados se presentarían de la forma siguiente:
+
+![Método UX](Paso2_UX_Design/Bocetos/coworking_buscar.jpeg)
+-----
+
+_Nota_: Si pulsáramos el botón "Reservar" sin haber iniciado sesión, nos redirigiría a Iniciar sesión y una vez hubiésemos marcado nuestras credenciales, nos devolvería a esta página y podríamos pulsar reservar sin problema.
 
 
 #### Información 
 
+La página de información sería:
+
+![Método UX](Paso2_UX_Design/Bocetos/informacion.jpeg)
+-----
+
 
 #### Noticias
+
+Y aquí la página de noticias:
+
+![Método UX](Paso2_UX_Design/Bocetos/noticias.jpeg)
+-----
 
 
 #### Contacto
 
+La página de contacto:
+
+![Método UX](Paso2_UX_Design/Bocetos/contacto.jpeg)
+-----
+
 
 #### Ayuda
 
+La página de ayuda:
+
+![Método UX](Paso2_UX_Design/Bocetos/ayuda.jpeg)
+-----
 
 
 #### Comunidad
 
+Una vez pulsamos "Entrar", se nos redirige al **inicio de sesión**, que sería así:
+
+![Método UX](Paso2_UX_Design/Bocetos/inicio_sesion.jpeg)
+-----
+
+Si no estuviésemos registrados y pulsásemos **Regístrate**, se nos redirigiría a la página:
+
+![Método UX](Paso2_UX_Design/Bocetos/registrarse.jpeg)
+-----
+
+
+Una vez iniciamos sesión, accedemos a la página de **comunidad**:
+
+
+Y de ahí, podemos **Buscar otras personas**:
+
+![Método UX](Paso2_UX_Design/Bocetos/comunidad_encuentra.jpeg)
+-----
+
+
+Y podemos contactar con ellas o revisar los mensajes que ya hemos enviado o recibido con anterioridad (Pulsando **contacta**):
+
+![Método UX](Paso2_UX_Design/Bocetos/comunidad_contacta.jpeg)
+-----
+
+_Nota_: Si se pulsa el botón "Ofrece tu espacio" Nos redirigiría a un formulario donde introducir toda la información. No se ha diseñado un boceto para este formulario porque únicamente se habrían puesto espacios con "Campo 1" "Campo 2"... "Campo x" y finalmente un botón de "Publicar".
 
 
