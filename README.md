@@ -1,10 +1,11 @@
-# DIU20Final
+# DIU20Final - La Madriguera
+
 Proyecto Final de la Asignatura de Diseño de Interfaces de Usuario
 
 Alumno:
  * :bust_in_silhouette:   Naroa Alonso
 
-He decidido crear un sitio web para que las personas puedan ofrecer espacios de que dispongan o acceder a los espacios de otras personas para poder realizar un trabajo cooperativo, basado en la iniciativa de una empresa de Coworking, erranT. El enlace a la página web de erranT es el siguiente: https://www.errant.es/es/
+He decidido crear **La Madriguera**, un sitio web para que las personas puedan ofrecer espacios de que dispongan o acceder a los espacios de otras personas para poder realizar un trabajo cooperativo, basado en la iniciativa de una empresa de Coworking, erranT. El enlace a la página web de erranT es el siguiente: https://www.errant.es/es/
 
 En este caso se estudiará un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
@@ -162,3 +163,36 @@ El etiquetado se especifica a continuación:
 
 
 ### Bocetos
+
+En base a todo lo investigado y analizado anteriormente, se ha llevado a cabo el diseño de algunos bocetos de la web. Realmente deberían realizarse bocetos low fit, con mucha menos información de la que contienen los hechos; y tras hacer un primer diseño con poco detalle, un estudio de usabilidad y navegabilidad por la web para ver cómo se interactúa con la misma y poder encontrar algún fallo y corregirlo de cara a los bocetos más detallados. No obstante, debido al poco tiempo del que se dispone para realizar todo este caso de estudio, se ha procedido directamente a diseñar los bocetos con un poco más de detalle.
+
+Se ha intentado cuidar mucho la navegabilidad y la usabilidad del sitio. Para ello, se han incluido breadcrumbs en todas las páginas (salvo en la de inicio) y se han incluido enlaces importantes en el footer. La pantalla de inicio siempre es accesible pinchando el logo y el menú siempre es visible, desde todas las páginas. 
+
+#### Página de inicio
+
+En la página de inicio se encuentra toda la información sobre la funcionalidad casi total de la web, y enlaces a todas las páginas.
+
+![Método UX](Paso2_UX_Design/Bocetos/inicio.png)
+-----
+
+
+#### Coworking
+
+
+#### Información 
+
+
+#### Noticias
+
+
+#### Contacto
+
+
+#### Ayuda
+
+
+
+#### Comunidad
+
+
+
