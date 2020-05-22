@@ -244,6 +244,8 @@ Si no estuviésemos registrados y pulsásemos **Regístrate**, se nos redirigir�
 
 Una vez iniciamos sesión, accedemos a la página de **comunidad**:
 
+![Método UX](Paso2_UX_Design/Bocetos/comunidad.png)
+-----
 
 Y de ahí, podemos **Buscar otras personas**:
 
